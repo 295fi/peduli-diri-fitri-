@@ -1,0 +1,10 @@
+ID_CATATAN|NIK|NAMA_LENGKAP|TANGGAL|JAM|LOKASI|SUHU
+
+98805|5821|fitri|2022-06-01|08:57|Taman|32.8 Celcius
+
+96751|5821|fitri|2022-06-18|13:06|Taman Wisata Malang|34,7 celcius
+
+
+
+
+
